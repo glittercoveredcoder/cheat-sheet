@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Greenscr';
+  src: url("Greenscr.ttf");
+}
+
+header {
+  background-color:rgb(40, 40, 40);
+  font-size: 35px;
+  color: rgb(102, 255, 102);
+  font-family: "Greenscr";
+}
+
