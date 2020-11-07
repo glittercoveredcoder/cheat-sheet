@@ -8,5 +8,19 @@ header {
   font-size: 35px;
   color: rgb(102, 255, 102);
   font-family: "Greenscr";
+  text-align: center;
+  padding-top: 5px;
 }
 
+a {
+  color: #FFB000;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
